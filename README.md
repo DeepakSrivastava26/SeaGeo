@@ -45,7 +45,7 @@ SeaGeo contains the following data modalities:
 | Acquisition altitude | [TO BE SPECIFIED] |
 | Sensor synchronization | [TO BE SPECIFIED] |
 | Coordinate reference system | [TO BE SPECIFIED] |
-
+<!--
 ## Research Paper
 
 The dataset is associated with the following research work:
@@ -59,7 +59,7 @@ The dataset is associated with the following research work:
 **Publication year:** [YEAR TO BE SPECIFIED]
 
 **Paper link:** [PUBLICATION URL OR DOI, IF AVAILABLE]
-
+-->
 ## How to Access the Dataset?
 
 SeaGeo is available **upon request**.
