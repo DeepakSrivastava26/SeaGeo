@@ -73,19 +73,7 @@ To request access:
 **Access procedure:** []
 -->
 
-## Intended Applications
 
-SeaGeo is intended to facilitate research on computer vision for UAV-based maritime observation, particularly in environments where reliable image georeferencing is challenging.
-
-Potential research applications include:
-
-- **Vision-guided georeferencing:** Estimating geographic image positions using visual correspondences and geometric transformations.
-- **Feature matching and image registration:** Evaluating local and learned feature-matching approaches on sea-surface imagery.
-- **Image mosaicking:** Investigating the alignment and integration of multiple UAV images.
-- **Visual localization:** Studying image-based localization in maritime environments.
-- **Sensor-assisted vision:** Exploring methods that combine visual information with GPS and IMU measurements.
-
-The suitability of the dataset for each application depends on the availability of the relevant metadata, reference measurements, and annotations.
 
 
 
