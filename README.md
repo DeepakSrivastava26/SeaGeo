@@ -126,11 +126,4 @@ Dataset access is currently handled upon request. The applicable terms of use, r
 
 Until a license is established, users should not assume that the dataset may be redistributed or used without restrictions.
 
-## Contact
 
-For questions about SeaGeo, dataset access, or the associated research, contact:
-
-- **Maintainer:** Deepak Srivastava [CONFIRM CONTACT DETAILS]
-- **Institution:** Indian Institute of Technology Madras [CONFIRM INSTITUTIONAL DETAILS]
-- **Email:** [CONTACT EMAIL]
-- **Repository:** https://github.com/DeepakSrivastava26/SeaGeo
