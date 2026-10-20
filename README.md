@@ -116,9 +116,3 @@ If you use SeaGeo in your research, please cite the associated publication.
 }
 ```
 
-
-
-
-Until a license is established, users should not assume that the dataset may be redistributed or used without restrictions.
-
-
