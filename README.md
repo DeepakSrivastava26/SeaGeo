@@ -14,7 +14,7 @@ The dataset is associated with the research paper **"Vision-guided Georeferencin
 <!--
 3. **Sensor measurements:** The dataset includes GPS telemetry and inertial measurement unit (IMU) data to support research involving image georeferencing and sensor-assisted visual analysis.
 -->
-4. **Image characteristics:** The dataset comprises 58,583 RGB video frames at a resolution of 5312 × 2988 pixels and a frame rate of 59.94 fps.
+4. **Image characteristics:** The dataset comprises 58,583 RGB video frames at a resolution of 5312 × 2988 pixels and 59.94 fps.
 <!--
 5. **Georeferencing research:** SeaGeo supports the investigation of vision-guided georeferencing methods for sea-surface imagery, where conventional ground-control-based approaches may be difficult to apply.
 -->
