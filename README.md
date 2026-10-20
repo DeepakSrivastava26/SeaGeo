@@ -15,9 +15,9 @@ The dataset is associated with the research paper **"Vision-guided Georeferencin
 3. **Sensor measurements:** The dataset includes GPS telemetry and inertial measurement unit (IMU) data to support research involving image georeferencing and sensor-assisted visual analysis.
 
 4. **Image characteristics:** The dataset includes UAV imagery of the sea surface. Details such as image resolution, frame rate, acquisition altitude, camera settings, and total dataset size are provided in the dataset documentation [TO BE COMPLETED].
-
+<!--
 5. **Georeferencing research:** SeaGeo supports the investigation of vision-guided georeferencing methods for sea-surface imagery, where conventional ground-control-based approaches may be difficult to apply.
-
+-->
 6. **Potential applications:** The dataset can support research in UAV image georeferencing, feature matching, image registration, sea-surface image mosaicking, visual localization, and related computer vision applications.
 <!--
 ## Dataset Contents
