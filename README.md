@@ -100,9 +100,9 @@ Implementation details, dependencies, and instructions for reproducing the exper
 
 ## Acknowledgements
 
-[ADD FUNDING AGENCIES, PROJECT NUMBERS, INSTITUTIONAL SUPPORT, AND ACKNOWLEDGEMENTS FOR DATA COLLECTION.]
 
-## Citation
+
+## Cite Us
 
 If you use SeaGeo in your research, please cite the associated publication.
 
