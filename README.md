@@ -19,7 +19,7 @@ The dataset is associated with the research paper **"Vision-guided Georeferencin
 5. **Georeferencing research:** SeaGeo supports the investigation of vision-guided georeferencing methods for sea-surface imagery, where conventional ground-control-based approaches may be difficult to apply.
 
 6. **Potential applications:** The dataset can support research in UAV image georeferencing, feature matching, image registration, sea-surface image mosaicking, visual localization, and related computer vision applications.
-
+<!--
 ## Dataset Contents
 
 SeaGeo contains the following data modalities:
@@ -45,6 +45,9 @@ SeaGeo contains the following data modalities:
 | Acquisition altitude | [TO BE SPECIFIED] |
 | Sensor synchronization | [TO BE SPECIFIED] |
 | Coordinate reference system | [TO BE SPECIFIED] |
+
+-->
+
 <!--
 ## Research Paper
 
