@@ -63,7 +63,7 @@ The dataset is associated with the following research work:
 ## How to Access the Dataset?
 
 SeaGeo is available **upon request**.
-
+<!--
 To request access:
 
 1. Review the dataset access requirements: [DATASET ACCESS POLICY OR AGREEMENT URL].
@@ -71,6 +71,7 @@ To request access:
 3. Follow the instructions provided to obtain access to the dataset.
 
 **Access procedure:** []
+-->
 
 ## Intended Applications
 
