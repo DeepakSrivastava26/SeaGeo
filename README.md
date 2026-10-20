@@ -87,8 +87,7 @@ To request access:
 ## Cite Us
 
 If you use SeaGeo in your research, please cite the associated publication.
-To be updated!
-<!--
+
 ```bibtex
 @InProceedings{SeaGeo,
     author    = {[AUTHOR NAMES]},
@@ -98,5 +97,4 @@ To be updated!
     pages     = {[PAGE RANGE]}
 }
 ```
--->
 
