@@ -104,7 +104,7 @@ Implementation details, dependencies, and instructions for reproducing the exper
 
 ## Citation
 
-If you use SeaGeo in your research, please cite the associated publication once its bibliographic details are finalized.
+If you use SeaGeo in your research, please cite the associated publication.
 
 ```bibtex
 @InProceedings{SeaGeo,
@@ -116,7 +116,6 @@ If you use SeaGeo in your research, please cite the associated publication once 
 }
 ```
 
-[Replace the placeholders with the final publication metadata. If the work is not yet published, use the appropriate preprint or manuscript citation.]
 
 
 
