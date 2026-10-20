@@ -86,17 +86,7 @@ Potential research applications include:
 
 The suitability of the dataset for each application depends on the availability of the relevant metadata, reference measurements, and annotations.
 
-## Code and Implementation
 
-The code associated with the proposed georeferencing method is available at:
-
-**GitHub repository:** https://github.com/DeepakSrivastava26/SeaGeo
-
-Implementation details, dependencies, and instructions for reproducing the experiments should be documented in the repository's code and usage documentation.
-
-**Environment setup:** [TO BE SPECIFIED]
-
-**Usage instructions:** [TO BE SPECIFIED]
 
 ## Acknowledgements
 
