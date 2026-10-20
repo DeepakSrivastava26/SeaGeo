@@ -10,7 +10,7 @@ The dataset is associated with the research paper **"Vision-guided Georeferencin
 
 1. **Dataset overview:** SeaGeo contains RGB imagery and video sequences acquired by an unmanned aerial vehicle (UAV) over a sea-surface environment.
 
-2. **Data acquisition:** The dataset was collected at Ariyamaan Beach, Rameshwaram, India, using a UAV equipped with an RGB camera and navigation sensors.
+2. **Data acquisition:** The dataset was collected at [Ariyaman Beach (also known as Kushi Beach)](https://www.google.com/search?kgmid=%2Fg%2F11xth45v4g), located along Palk Bay in Sattakkonvalasai, Ramanathapuram District, Tamil Nadu, India, using a UAV equipped with an RGB camera and navigation sensors.
 
 3. **Sensor measurements:** The dataset includes GPS telemetry and inertial measurement unit (IMU) data to support research involving image georeferencing and sensor-assisted visual analysis.
 
@@ -34,7 +34,7 @@ SeaGeo contains the following data modalities:
 |---|---|
 | Dataset name | SeaGeo |
 | Data domain | UAV sea-surface imagery |
-| Collection location | Ariyamaan Beach, Rameshwaram, India |
+| Collection location | Ariyaman Beach (Kushi Beach), Sattakkonvalasai, Ramanathapuram District, Tamil Nadu, India (Palk Bay) |
 | Imaging modality | RGB |
 | Data format | Images and/or video sequences [CONFIRM FORMATS] |
 | Navigation data | GPS telemetry |
