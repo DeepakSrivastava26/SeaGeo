@@ -118,11 +118,7 @@ If you use SeaGeo in your research, please cite the associated publication once 
 
 [Replace the placeholders with the final publication metadata. If the work is not yet published, use the appropriate preprint or manuscript citation.]
 
-## License and Terms of Use
 
-**License:** To be determined.
-
-Dataset access is currently handled upon request. The applicable terms of use, redistribution permissions, and licensing conditions will be specified by the dataset maintainers.
 
 Until a license is established, users should not assume that the dataset may be redistributed or used without restrictions.
 
