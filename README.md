@@ -1,5 +1,4 @@
-# SeaGeo: A Dataset for Georeferencing of UAV Sea-Surface Imagery
-
+# SeaGeo: A Dataset of UAV-acquired sea-surface imagery accompanied by navigation and inertial sensor measurements.
 SeaGeo is a dataset of UAV-acquired sea-surface imagery accompanied by navigation and inertial sensor measurements. It is intended to support research on vision-guided georeferencing and related computer vision tasks in maritime environments.
 
 The dataset is associated with the research paper **"Vision-guided Georeferencing of UAV Sea Surface Imagery."**
