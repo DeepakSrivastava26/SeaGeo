@@ -10,15 +10,15 @@ The dataset is associated with the research paper **"Vision-guided Georeferencin
 
 1. **Dataset overview:** SeaGeo contains RGB imagery and video sequences acquired by an unmanned aerial vehicle (UAV) over a sea-surface environment. The dataset includes GPS telemetry and inertial measurement unit (IMU) data to support research involving image georeferencing and sensor-assisted visual analysis.
 
-2. **Data acquisition:** The dataset was collected at [Ariyaman Beach (also known as Kushi Beach)](https://www.google.com/search?kgmid=%2Fg%2F11xth45v4g), located along Palk Bay in Sattakkonvalasai, Ramanathapuram District, Tamil Nadu, India, using a UAV equipped with an RGB camera and navigation sensors.
+2. **Data acquisition:** The dataset was collected at Ariyaman Beach (also known as Kushi Beach), located along Palk Bay in Sattakkonvalasai, Ramanathapuram District, Tamil Nadu, India, using a UAV equipped with an RGB camera and navigation sensors.
 <!--
 3. **Sensor measurements:** The dataset includes GPS telemetry and inertial measurement unit (IMU) data to support research involving image georeferencing and sensor-assisted visual analysis.
 -->
-4. **Image characteristics:** The dataset includes UAV imagery of the sea surface. Details such as image resolution, frame rate, acquisition altitude, camera settings, and total dataset size are provided in the dataset documentation [TO BE COMPLETED].
+4. **Image characteristics:** The dataset comprises 58,583 RGB video frames at a resolution of 5312 × 2988 pixels and a frame rate of 59.94 fps.
 <!--
 5. **Georeferencing research:** SeaGeo supports the investigation of vision-guided georeferencing methods for sea-surface imagery, where conventional ground-control-based approaches may be difficult to apply.
 -->
-6. **Potential applications:** The dataset can support research in UAV image georeferencing, feature matching, image registration, sea-surface image mosaicking, visual localization, and related computer vision applications.
+6. **Potential applications:** SeaGeo supports research in vision-guided georeferencing, feature matching, image registration, visual localization, structure-from-motion (SfM), 3D reconstruction, and novel-view synthesis in challenging maritime environments.
 <!--
 ## Dataset Contents
 
