@@ -60,7 +60,7 @@ The dataset is associated with the following research work:
 
 **Paper link:** [PUBLICATION URL OR DOI, IF AVAILABLE]
 
-## How to Access the Dataset
+## How to Access the Dataset?
 
 SeaGeo is available **upon request**.
 
@@ -70,7 +70,7 @@ To request access:
 2. Submit a request using the following form or contact: [REQUEST FORM URL OR CONTACT EMAIL].
 3. Follow the instructions provided to obtain access to the dataset.
 
-**Access procedure:** [SPECIFY WHETHER APPROVAL, A SIGNED AGREEMENT, OR OTHER REQUIREMENTS APPLY.]
+**Access procedure:** []
 
 ## Intended Applications
 
