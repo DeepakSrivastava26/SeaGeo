@@ -2,9 +2,12 @@
 SeaGeo is a dataset of UAV-acquired sea-surface imagery accompanied by navigation and inertial sensor measurements. It is intended to support research on vision-guided georeferencing and related computer vision tasks in maritime environments.
 
 The dataset is associated with the research paper **"Vision-guided Georeferencing of UAV Sea Surface Imagery."**
-
+https://github.com/nishavarghese15/DRUVA--Dataset-of-Real-world-Underwater-Videos-of-Artifacts-/assets/93310210/deb2e5da-e283-42da-bb73-9fe7247b4d73
 
 ![GIF1](https://github.com/DeepakSrivastava26/SeaGeo/blob/main/seageo.gif)
+
+![GIF1]([https://github.com/DeepakSrivastava26/SeaGeo/blob/main/seageo.gif](https://github.com/nishavarghese15/DRUVA--Dataset-of-Real-world-Underwater-Videos-of-Artifacts-/assets/93310210/deb2e5da-e283-42da-bb73-9fe7247b4d73
+))
 
 ## Summary of SeaGeo
 
