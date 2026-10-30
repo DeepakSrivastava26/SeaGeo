@@ -24,7 +24,7 @@ The dataset is associated with the research paper **"Vision-guided Georeferencin
 <!--
 5. **Georeferencing research:** SeaGeo supports the investigation of vision-guided georeferencing methods for sea-surface imagery, where conventional ground-control-based approaches may be difficult to apply.
 -->
-6. **Potential applications:** SeaGeo supports research in vision-guided georeferencing, feature matching, image registration, visual localization, structure-from-motion (SfM), 3D reconstruction, and novel-view synthesis in challenging maritime environments.
+3. **Potential applications:** SeaGeo supports research in vision-guided georeferencing, feature matching, image registration, visual localization, structure-from-motion (SfM), 3D reconstruction, and novel-view synthesis in challenging maritime environments.
 <!--
 ## Dataset Contents
 
