@@ -7,7 +7,7 @@ The dataset is associated with the research paper **"Vision-guided Georeferencin
 ![SeaGeo Dataset Overview](https://raw.githubusercontent.com/DeepakSrivastava26/SeaGeo/main/seageo1.gif)
 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeepakSrivastava26/SeaGeo/main/seageo1.gif" width="200" alt="SeaGeo Dataset Overview">
+  <img src="https://raw.githubusercontent.com/DeepakSrivastava26/SeaGeo/main/seageo.gif" width="200" alt="SeaGeo Dataset Overview">
 </p>
 
 ## Summary of SeaGeo
