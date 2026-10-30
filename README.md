@@ -4,7 +4,7 @@ SeaGeo is a dataset of UAV-acquired sea-surface imagery accompanied by navigatio
 The dataset is associated with the research paper **"Vision-guided Georeferencing of UAV Sea Surface Imagery."**
 
 
-![SeaGeo Dataset Overview](https://raw.githubusercontent.com/DeepakSrivastava26/SeaGeo/main/seageo.gif)
+![SeaGeo Dataset Overview](https://raw.githubusercontent.com/DeepakSrivastava26/SeaGeo/main/seageo1.gif)
 
 
 
