@@ -71,16 +71,13 @@ SeaGeo is available **upon request**.
 
 ### Access Procedure
 
-1. Submit an access request through the [SeaGeo Dataset Access Form](https://docs.google.com/forms/d/1QawfVTL2O7I5d_vQVH19xg9Qu2HLYzamw33r0cueFQ8/viewform).
+1. Submit an access request through the [SeaGeo Dataset Access Form](https://docs.google.com/forms/d/1QawfVTL2O7I5d_vQVH19xg9Qu2HLYzamw33r0cueFQ8/viewform). The form includes consent to the terms and conditions governing the use of the SeaGeo dataset.
 
-2. Read and provide consent to the terms and conditions governing the use of the SeaGeo dataset.
+2. After submitting the form, request access to the [SeaGeo Google Drive Folder](https://drive.google.com/drive/folders/REPLACE_WITH_FOLDER_ID) using the **same email address** provided in the access request form.
 
-3. Request access to the Google Drive folder using the **same email address** provided in the consent form.
+3. Access will be granted after verification of the submitted form and consent.
 
-4. Access will be granted after verification of the submitted consent form.
-
-**Note:** Dataset access is subject to acceptance of the terms and conditions.
-
+**Note:** Access to the dataset is subject to acceptance of the terms and conditions.
 
 
 
