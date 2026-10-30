@@ -64,22 +64,28 @@ The dataset is associated with the following research work:
 -->
 ## How to Access the Dataset?
 
+
+
+
 SeaGeo is available **upon request**.
-<!--
-To request access:
 
-1. Review the dataset access requirements: [DATASET ACCESS POLICY OR AGREEMENT URL].
-2. Submit a request using the following form or contact: [REQUEST FORM URL OR CONTACT EMAIL].
-3. Follow the instructions provided to obtain access to the dataset.
+### Access Procedure
 
-**Access procedure:** []
--->
+1. Submit an access request through the [SeaGeo Dataset Access Form](https://docs.google.com/forms/d/1QawfVTL2O7I5d_vQVH19xg9Qu2HLYzamw33r0cueFQ8/viewform).
+
+2. Read and provide consent to the terms and conditions governing the use of the SeaGeo dataset.
+
+3. Request access to the Google Drive folder using the **same email address** provided in the consent form.
+
+4. Access will be granted after verification of the submitted consent form.
+
+**Note:** Dataset access is subject to acceptance of the terms and conditions.
 
 
 
 
 
-## Acknowledgements
+
 
 
 
