@@ -73,22 +73,17 @@ The dataset is associated with the following research work:
 
 
 
-
 SeaGeo is available **upon request**.
 
 ### Access Procedure
 
-1. Submit an access request through the [SeaGeo Dataset Access Form](https://docs.google.com/forms/d/1QawfVTL2O7I5d_vQVH19xg9Qu2HLYzamw33r0cueFQ8/viewform). The form includes consent to the terms and conditions governing the use of the SeaGeo dataset.
+1. **Complete the [SeaGeo Dataset Access Form](https://docs.google.com/forms/d/1QawfVTL2O7I5d_vQVH19xg9Qu2HLYzamw33r0cueFQ8/viewform).** The form includes the consent statement outlining the terms and conditions governing the use of the SeaGeo dataset. Read and agree to these conditions before proceeding.
 
-2. After submitting the form, request access to the [SeaGeo Google Drive Folder](https://drive.google.com/drive/folders/REPLACE_WITH_FOLDER_ID) using the **same email address** provided in the access request form.
+2. **Request access through [Zenodo – SeaGeo Dataset](https://zenodo.org/records/23813902).** After submitting the consent form, sign in to Zenodo and submit an access request for the restricted dataset. Use the same email address provided in the consent form.
 
-3. Access will be granted after verification of the submitted form and consent.
+3. **Wait for approval.** Access requests will be reviewed after verification of the submitted consent form. Access to the dataset will be granted upon approval.
 
-**Note:** Access to the dataset is subject to acceptance of the terms and conditions.
-
-
-
-
+**Note:** Access approval will be granted within **1 working day** after verification of the submitted consent form. If access is not granted within this timeframe, please contact [deepsrivastava26@gmail.com](mailto:deepsrivastava26@gmail.com).
 
 
 
